@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Juan Bustillo</h1>
 <h3 align="center">A pro-active and passionate software developer from Mexico</h3>
 
-<p dir="auto">🔭 <strong>I’m currently working on</strong>:<br>
+<p dir="auto">🔭 <strong>I’m currently working at</strong>:<br>
+  
 <a href="https://goskills.com/" rel="nofollow"> <img src="https://www.goskills.com/images/logo/logo-combined-white.svg" alt="goskills logo" style="max-width: 100%;"> </a></p>
 
 <h3 align="left">Connect with me:</h3>
