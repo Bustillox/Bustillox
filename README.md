@@ -3,7 +3,7 @@
 
 <p dir="auto">🔭 <strong>I’m currently working at</strong>:<br>
   
-<a href="https://goskills.com/" rel="nofollow"> <img src="https://www.goskills.com/images/logo/logo-combined-white.svg" alt="goskills logo" style="max-width: 100%;"> </a></p>
+<a href="https://ariox.com/home" rel="nofollow"> <img src="https://pbs.twimg.com/profile_images/1710036692617601024/zBGuUY4m_400x400.jpg" alt="ariox logo" style="max-width: 100%;"> </a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
