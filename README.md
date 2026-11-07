@@ -1,18 +1,34 @@
 <h1 align="center">Hi 👋, I'm Juan Bustillo</h1>
-<h3 align="center">A pro-active and passionate software developer from Mexico</h3>
+<h3 align="center">Full-stack software engineer from Hermosillo, Mexico 🇲🇽</h3>
 
-<p dir="auto">🔭 <strong>I’m currently working at</strong>:<br>
-  
-<a href="https://ariox.com/home" rel="nofollow"> <img src="https://pbs.twimg.com/profile_images/1710036692617601024/zBGuUY4m_400x400.jpg" alt="ariox logo" style="max-width: 100%;"> </a></p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/juanbustillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juanbustillo" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bustix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bustix" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/juanbustillo"><img src="https://img.shields.io/badge/LinkedIn-juanbustillo-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/bustix/"><img src="https://img.shields.io/badge/LeetCode-bustix-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:bustillox@gmail.com"><img src="https://img.shields.io/badge/Email-bustillox%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+## About me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+- 🔭 Currently working at <a href="https://ariox.com"><img src="https://ariox.com/ariox-full.svg" alt="Ariox" height="20" align="center" /></a>
+- 💼 ~7 years building web apps and APIs, mostly backend with .NET/C# on Azure
+- 🎓 Pursuing a Master's in IT Management at Tecnológico de Monterrey
+- 🌎 Bilingual (Spanish / English), working remotely on US Pacific hours
+- 🏠 Side interest: home automation with Home Assistant
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bustillox&show_icons=true&locale=en" alt="bustillox" /></p>
+## Tech stack
+
+- **Backend:** C#, .NET, ASP.NET Core, Blazor, REST APIs
+- **Cloud & data:** Azure, SQL Server, MySQL
+- **Frontend:** React, TypeScript, JavaScript, Tailwind CSS, Bootstrap, Sass
+- **Tools:** Git, GitHub, Postman, Visual Studio, VS Code, Figma
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,mysql,react,ts,js,tailwind,bootstrap,sass,html,css,git,github,postman,visualstudio,vscode,figma,arduino&perline=10" alt="Tech stack icons" />
+</p>
+
+## GitHub stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bustillox&show_icons=true&hide_border=true&count_private=true" alt="Juan's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bustillox&layout=compact&hide_border=true" alt="Top languages" />
+</p>
